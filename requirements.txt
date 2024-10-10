@@ -1,0 +1,14 @@
+tqdm
+torch
+numpy
+transformers
+openai
+accelerate
+matplotlib
+scipy
+datasets
+scikit-learn
+notebook
+einops
+mamba-ssm
+ai2-olmo
