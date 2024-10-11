@@ -5,6 +5,9 @@
 
 This is the repository for the official implementation of [Detecting Training Data of Large Language Models via Expectation Maximization](https://arxiv.org/abs/2410.07582).
 
+<p align="center">
+  <img src="images/em-mia_overview.png" width="40%">
+</p>
 
 ## Setup
 ```bash
